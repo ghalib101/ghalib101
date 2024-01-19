@@ -1,10 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
+🔭 I’m currently working on nothing<br>
+👯 I’m looking to collaborate on everything things<br>
+🌱 I’m currently learning many things <br>
+💬 Ask me about anything<br>
+
 
 
 # 💻 Tech Stack:
